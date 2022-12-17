@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am a second-year computer science student at the Lublin University of Technology.
+
+- 🔭 I’m currently working on something cool(hehe)😎
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: andrzej.tracz440@wp.pl
+
 
 <!--
 **AndrzejTracz4/AndrzejTracz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
