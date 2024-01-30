@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a second-year computer science student at the Lublin University of Technology.
+I am a third-year computer science student at the Lublin University of Technology.
 
 - 🔭 I’m currently working on something cool(hehe)😎
 - 🌱 I’m currently learning Java
@@ -12,7 +12,7 @@ I am a second-year computer science student at the Lublin University of Technolo
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something cool(hehe)😎
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Spring Boot, Hibernate,
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
