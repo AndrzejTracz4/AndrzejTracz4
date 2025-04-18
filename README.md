@@ -1,8 +1,6 @@
 ### Hi there 👋
-I am a third-year computer science student at the Lublin University of Technology.
-
 - 🔭 I’m currently working on something cool(hehe)😎
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Kotlin with Jetpack Compose for mobile apps
 - 📫 How to reach me: andrzej.tracz440@wp.pl
 
 
